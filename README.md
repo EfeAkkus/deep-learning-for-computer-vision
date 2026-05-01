@@ -20,13 +20,23 @@ This repository contains my implementations and notes while studying the CS231n 
 - Linear classifier
 - Score function
 - Bias trick
-- Interpretation of weights
 - Multiclass SVM loss (hinge loss)
-- Regularization (L2)
 - Softmax classifier
 - Cross-entropy loss
-- SVM vs Softmax
-- Numeric stability
+- Regularization (L2)
+
+---
+
+### Lecture 3: Optimization (SGD)
+
+- Loss optimization
+- Gradient Descent
+- Numerical gradient
+- Analytic gradient
+- Gradient check
+- Learning rate (step size)
+- Stochastic Gradient Descent (SGD)
+- Mini-batch Gradient Descent
 
 ---
 
@@ -34,6 +44,7 @@ This repository contains my implementations and notes while studying the CS231n 
 
 - `01_knn/` → Lecture 1
 - `02_linear_classification/` → Lecture 2
+- `03_optimization/` → Lecture 3
 - `datasets/` → local datasets (not tracked by git)
 
 ---
