@@ -40,11 +40,20 @@ This repository contains my implementations and notes while studying the CS231n 
 
 ---
 
+### Lecture 4: Backpropagation
+
+- Chain rule interpretation
+- Real-valued circuits
+- Patterns in gradient flow
+
+---
+
 ## Structure
 
 - `01_knn/` → Lecture 1
 - `02_linear_classification/` → Lecture 2
 - `03_optimization/` → Lecture 3
+- `04_backpropagation/` → Lecture 4
 - `datasets/` → local datasets (not tracked by git)
 
 ---
