@@ -46,6 +46,17 @@ This repository contains my implementations and notes while studying the CS231n 
 - Real-valued circuits
 - Patterns in gradient flow
 
+### Lecture 5: Neural Networks
+
+- Model of a biological neuron
+- Computational model of a neuron
+- Activation functions
+- Neural network architectures
+- Forward pass computation
+- Setting number of layers and hidden units
+- Representational power
+- Regularization and overfitting
+
 ---
 
 ## Structure
@@ -54,6 +65,7 @@ This repository contains my implementations and notes while studying the CS231n 
 - `02_linear_classification/` → Lecture 2
 - `03_optimization/` → Lecture 3
 - `04_backpropagation/` → Lecture 4
+- `05_neural_networks/` → Lecture 5
 - `datasets/` → local datasets (not tracked by git)
 
 ---
