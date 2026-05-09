@@ -46,7 +46,7 @@ This repository contains my implementations and notes while studying the CS231n 
 - Real-valued circuits
 - Patterns in gradient flow
 
-### Lecture 5: Neural Networks
+### Lecture 5: Neural Networks Part 1
 
 - Model of a biological neuron
 - Computational model of a neuron
@@ -56,6 +56,15 @@ This repository contains my implementations and notes while studying the CS231n 
 - Setting number of layers and hidden units
 - Representational power
 - Regularization and overfitting
+
+### Lecture 5: Neural Networks Part 2
+
+- preprocessing
+- weight initialization
+-  batch normalization
+- regularization (L2/dropout)
+- loss functions
+
 
 ---
 
