@@ -57,7 +57,7 @@ This repository contains my implementations and notes while studying the CS231n 
 - Representational power
 - Regularization and overfitting
 
-### Lecture 5: Neural Networks Part 2
+### Lecture 6: Neural Networks Part 2
 
 - preprocessing
 - weight initialization
@@ -65,6 +65,15 @@ This repository contains my implementations and notes while studying the CS231n 
 - regularization (L2/dropout)
 - loss functions
 
+### Lecture 7: Neural Networks Part 3
+
+- gradient checks,
+- sanity checks
+- babysitting the learning process
+- momentum (+nesterov), second-order methods
+- Adagrad/RMSprop
+- hyperparameter optimization
+- model ensembles 
 
 ---
 
@@ -74,7 +83,9 @@ This repository contains my implementations and notes while studying the CS231n 
 - `02_linear_classification/` → Lecture 2
 - `03_optimization/` → Lecture 3
 - `04_backpropagation/` → Lecture 4
-- `05_neural_networks/` → Lecture 5
+- `05_neural_networks1/` → Lecture 5
+- `06_neural_networks2/` → Lecture 6
+- `07_neural_networks3/` → Lecture 7
 - `datasets/` → local datasets (not tracked by git)
 
 ---
